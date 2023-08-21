@@ -12,7 +12,6 @@ Welcome to the HR Analytics Dashboard project repository! This project showcases
 - [Code and Measures](#code-and-measures)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 
