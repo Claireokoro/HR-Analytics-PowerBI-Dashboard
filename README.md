@@ -40,6 +40,10 @@ The dashboard includes the following visuals:
 - Job Satisfaction Ratings by Marital Status and Tenure: Analysis of job satisfaction ratings among different marital status categories and tenure ranges.
 - Promotions Frequency: Visualizing how frequently employees were promoted.
 
+## Dashboard Preview
+![Screenshot 2023-08-22 104549](https://github.com/Claireokoro/HR-Analytics-PowerBI-Dashboard/assets/122834264/70c2d7f2-d384-4d08-9a78-42cccdc30de9)
+
+
 ## How to Interact with the Dashboard
 
 You can interact with the HR Analytics Dashboard by accessing the [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZWM0NDhmMGYtNjUxYS00N2FmLTg2MWUtMzBhNGM4YzBiYWY4IiwidCI6ImMyOWNlYjUwLWE1MjAtNDg2Yi1hN2Q5LTM5NWMwZWU5MWM3OCJ9). Simply log in with your Microsoft account, and you will be able to explore the dashboard's various features and insights.
