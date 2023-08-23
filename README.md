@@ -42,7 +42,7 @@ The dashboard includes the following visuals:
 
 ## How to Interact with the Dashboard
 
-You can interact with the HR Analytics Dashboard by accessing the [Power BI Service](https://powerbi.microsoft.com/en-us/). Simply log in with your Microsoft account, and you will be able to explore the dashboard's various features and insights.
+You can interact with the HR Analytics Dashboard by accessing the [Power BI Service]([https://powerbi.microsoft.com/en-us/](https://app.powerbi.com/view?r=eyJrIjoiZWM0NDhmMGYtNjUxYS00N2FmLTg2MWUtMzBhNGM4YzBiYWY4IiwidCI6ImMyOWNlYjUwLWE1MjAtNDg2Yi1hN2Q5LTM5NWMwZWU5MWM3OCJ9)). Simply log in with your Microsoft account, and you will be able to explore the dashboard's various features and insights.
 
 ## Code and Measures
 
