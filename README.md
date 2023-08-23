@@ -41,7 +41,7 @@ The dashboard includes the following visuals:
 - Promotions Frequency: Visualizing how frequently employees were promoted.
 
 ## Dashboard Preview
-![Screenshot 2023-08-22 104549](https://github.com/Claireokoro/HR-Analytics-PowerBI-Dashboard/assets/122834264/70c2d7f2-d384-4d08-9a78-42cccdc30de9)
+[Screenshot 2023-08-22 104549](https://github.com/Claireokoro/HR-Analytics-PowerBI-Dashboard/assets/122834264/70c2d7f2-d384-4d08-9a78-42cccdc30de9)
 
 
 ## How to Interact with the Dashboard
